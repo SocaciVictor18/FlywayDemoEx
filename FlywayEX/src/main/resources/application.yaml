@@ -4,6 +4,7 @@ spring:
     username: cars_user
     password: cars_pass
   flyway:
+
     enabled: true
   application:
     name: FlywayEX
